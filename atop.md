@@ -1,6 +1,10 @@
-Guarda las estadisticas del sistema.
+## Caracteristicas de Atop
 
-Toma datos, desde el momento en el que se instalo.
+- Guarda las estadisticas del sistema.
+
+- Toma datos, desde el momento en el que se instalo.
+
+## Configuración y Comandos
 
 Servicio: systemctl status atop.
 
