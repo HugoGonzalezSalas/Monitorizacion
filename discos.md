@@ -5,3 +5,4 @@
 - du: Muestra el espacio ocupado por un fichero o directorio.
 - iostat: Se utiliza para rastrear los problemas de rendimiento de los dispositivos de
 almacenamiento.
+- lsblk: Muestra la información de los dispositivos de bloque, como discos y particiones, en sistemas Linux.
