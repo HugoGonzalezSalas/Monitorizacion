@@ -30,5 +30,16 @@ el espacio en disco usado, etc.
 - netclass Expone la información de las interfaces de red
 de /sys/class/net/
 - netdev Más estadísticas de red, como los bytes transferidos, etc.
+## ¿Qué es grafana?
+Es una herramienta poderosa para visualizar y analizar datos.
+odemos integrarlo con Prometheus.
+Las principales características de Grafana son:
+- Visualización de datos.
+- Soporte para múltiples fuentes de datos: Prometheus, InfluxDB, MySQL,
+- PostgreSQL, AWS CloudWatch, Microsoft SQL Server, entre otros.
+- Creación de paneles dinámicos.
+- Alertas y notificaciones.
+- Interfaz intuitiva.
+- Comunidad
 
 ## Instalacion y Configuración.
