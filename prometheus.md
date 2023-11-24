@@ -31,4 +31,4 @@ el espacio en disco usado, etc.
 de /sys/class/net/
 - netdev Más estadísticas de red, como los bytes transferidos, etc.
 
-- Instalacion y Configuración.
+## Instalacion y Configuración.
