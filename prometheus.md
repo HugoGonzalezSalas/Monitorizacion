@@ -1,5 +1,5 @@
-# 1.PROMETHEUS  
-## 1.1- Que es Prometheus?
+# 1. PROMETHEUS  
+## 1.1.- Que es Prometheus?
 - Aplicación OpenSource para monitorizar sistemas y servicios.
 - Recopilación de métricas
 - Almacenamiento de series temporales
