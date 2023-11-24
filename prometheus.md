@@ -43,3 +43,27 @@ Las principales características de Grafana son:
 - Comunidad
 
 ## 2. Instalacion y Configuración.
+
+- apt install prometheus
+- systemctl daemon-reload
+- systemctl status prometheus
+- systemctl list-unit-files -t service | grep "prometheus"
+- apt install -y apt-transport-htpps
+- apt install -y software-properties-common wget
+- wget -q -O - https://packages.grafana.com/gpg.key | apt-key add -
+- echo "deb https://packages.grafana.com/oss/deb stable main" | tee -a
+/etc/apt/sources.list.d/grafana.list
+- apt update
+- apt install grafana
+
+###NOT starting on installation, please execute the following statements
+to configure grafana to start automatically using systemd
+sudo /bin/systemctl daemon-reload
+sudo /bin/systemctl enable grafana-server
+###You can start grafana-server by executing
+sudo /bin/systemctl start grafana-server
+
+- systemctl daemon-reload
+- systemctl enable grafana-server
+- systemctl start grafana-server.service
+- 
