@@ -60,6 +60,7 @@ Las principales características de Grafana son:
 to configure grafana to start automatically using systemd
 sudo /bin/systemctl daemon-reload
 sudo /bin/systemctl enable grafana-server
+
 ###You can start grafana-server by executing
 sudo /bin/systemctl start grafana-server
 
