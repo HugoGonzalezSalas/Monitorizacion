@@ -30,7 +30,7 @@ el espacio en disco usado, etc.
 - netclass Expone la información de las interfaces de red
 de /sys/class/net/
 - netdev Más estadísticas de red, como los bytes transferidos, etc.
-## ¿Qué es grafana?
+## 1.3.- ¿Qué es grafana?
 Es una herramienta poderosa para visualizar y analizar datos.
 odemos integrarlo con Prometheus.
 Las principales características de Grafana son:
