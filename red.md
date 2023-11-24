@@ -12,3 +12,7 @@ Todos rastran el trafico de la red.
   - -i: indica la interfaz que deseas estudiar
   - Ejemplo: tcptrack -i eno1
 - iptraf: Te aparece un menu que te permite estudiar la red con diferentes opciones.
+
+Para ver los puertos abiertos:
+- netstat -plunt
+
