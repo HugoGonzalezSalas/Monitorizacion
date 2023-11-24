@@ -1,5 +1,5 @@
-# PROMETHEUS  
-## Que es Prometheus?
+# 1.PROMETHEUS  
+## 1.1- Que es Prometheus?
 - Aplicación OpenSource para monitorizar sistemas y servicios.
 - Recopilación de métricas
 - Almacenamiento de series temporales
@@ -42,4 +42,4 @@ Las principales características de Grafana son:
 - Interfaz intuitiva.
 - Comunidad
 
-## Instalacion y Configuración.
+## 2. Instalacion y Configuración.
