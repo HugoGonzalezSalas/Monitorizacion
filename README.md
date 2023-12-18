@@ -7,6 +7,7 @@
 
 ## Referencias
 [Presentacion de Manuel Dominguez Tienda](https://educacionadistancia.juntadeandalucia.es/centros/sevilla/course/view.php?id=7692)
+[Wikipedia](https://es.wikipedia.org/wiki/Monitorizaci%C3%B3n)
 ## Autor
 
 *Hugo Gonzalez Salas*
