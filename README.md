@@ -1,5 +1,5 @@
 # Monitorizacion
-[1.- 1.- Introducción](/md/intro.md)
+[1.- Introducción](/md/intro.md)
 
 [2.-Herramientas propias del sistema.](/md/herra.md)
 
