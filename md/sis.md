@@ -12,4 +12,4 @@ Grafana es una plataforma de visualización que se integra con diversas fuentes
 de datos, incluidas muchas herramientas de monitorización. Puede utilizarse
 para crear paneles personalizados y visualizaciones interactivas.
 
-![img](img/grafana.jpg)
+![img1](img/grafana.jpg)
